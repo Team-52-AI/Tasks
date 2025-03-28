@@ -1,0 +1,6 @@
+C:\Users\Александр\Documents\GitHub\Tasks-main\TasksLibrary\TasksLibrary\bin\Debug\TasksLibrary.dll
+C:\Users\Александр\Documents\GitHub\Tasks-main\TasksLibrary\TasksLibrary\bin\Debug\TasksLibrary.pdb
+C:\Users\Александр\Documents\GitHub\Tasks-main\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\GitHub\Tasks-main\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\GitHub\Tasks-main\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.dll
+C:\Users\Александр\Documents\GitHub\Tasks-main\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.pdb

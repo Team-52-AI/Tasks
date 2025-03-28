@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>--Справочный материал--
+-Общее описание-
+Программа предоставляет инструменты для решения различных математических задач, включая:
+
+Поиск делителей числа
+
+Факторизацию числа
+
+Генерацию простых чисел
+
+Вычисление НОД и НОК
+
+Поиск чисел с определенным количеством делителей
+
+Программа имеет главное меню с кнопками для выбора задачи. В каждом окне задачи есть:
+
+Кнопка "Выполнить" (запускает вычисления)
+
+Кнопка "×" (закрывает текущее окно и возвращает в главное меню)
+
+Поля ввода (1 или 2, в зависимости от задачи)
+
+Поле вывода (результат, недоступный для редактирования)
+
+-Описание задач-
+1. Поиск делителей числа
+Ввод: Одно натуральное число (N).
+
+Вывод: Список всех делителей числа N в порядке возрастания.
+
+Пример:
+Ввод: 12 → Вывод: 1, 2, 3, 4, 6, 12
+
+2. Поиск чисел с ровно 5 делителями в диапазоне
+Ввод: Два числа (M и N, начало и конец диапазона).
+
+Вывод: Список чисел из диапазона [M, N], у которых ровно 5 делителей.
+
+Пример:
+Ввод: 10 100 → Вывод: 16, 81, 100
+
+3. Факторизация числа (разложение на простые множители)
+Ввод: Одно натуральное число (N).
+
+Вывод: Разложение числа N в виде произведения простых множителей.
+
+Пример:
+Ввод: 100 → Вывод: 100 = 2² × 5²
+
+4. Генерация первых N простых чисел (перебором)
+Ввод: Одно натуральное число (N).
+
+Вывод: Список первых N простых чисел.
+
+Пример:
+Ввод: 5 → Вывод: 2, 3, 5, 7, 11
+
+5. Генерация первых N простых чисел (Решето Эратосфена)
+Ввод: Одно натуральное число (N).
+
+Вывод: Список первых N простых чисел (более быстрый алгоритм).
+
+Пример:
+Ввод: 10 → Вывод: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29
+
+6. Нахождение НОД (наибольшего общего делителя)
+Ввод: Два целых числа (A и B).
+
+Вывод: Наибольший общий делитель чисел A и B.
+
+Пример:
+Ввод: 56 98 → Вывод: 14
+
+7. Нахождение НОК (наименьшего общего кратного)
+Ввод: Два целых числа (A и B).
+
+Вывод: Наименьшее общее кратное чисел A и B.
+
+Пример:
+Ввод: 12 18 → Вывод: 36
+
+-Как пользоваться программой?-
+Запустите программу — откроется главное меню.
+
+Выберите задачу, нажав на соответствующую кнопку (например, "Задача 1").
+
+Введите данные в поле ввода (или два числа, если требуется).
+
+Нажмите "Выполнить" — результат появится в поле вывода.
+
+Чтобы закрыть окно задачи, нажмите "×" (вернётесь в главное меню).
+
+Для выхода из программы нажмите "Выход" в главном меню.
+
+-Ограничения и возможные ошибки-
+Некорректный ввод (например, буквы вместо чисел) → программа выдаст ошибку.
+
+Отрицательные числа → в задачах 1-5 принимаются только натуральные числа (≥1).
+
+Нулевые значения → в задачах 6-7 допустимы, но в НОК могут дать 0.
+
+Слишком большие числа → могут вызвать задержку в вычислениях.</value>
+  </data>
+</root>
