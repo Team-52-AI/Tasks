@@ -1,0 +1,10 @@
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\bin\Debug\TestTasks.exe.config
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\bin\Debug\TestTasks.exe
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\bin\Debug\TestTasks.pdb
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\bin\Debug\TasksLibrary.dll
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\bin\Debug\TasksLibrary.pdb
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\obj\Debug\TasksTest.csproj.AssemblyReference.cache
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\obj\Debug\TasksTest.csproj.CoreCompileInputs.cache
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\obj\Debug\TasksTest.csproj.Up2Date
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\obj\Debug\TestTasks.exe
+C:\Users\viken\source\repos\Tasks\TasksLibrary\TestTasks\obj\Debug\TestTasks.pdb
