@@ -10,3 +10,9 @@ C:\Users\viken\source\repos\Tasks_1\TasksLibrary\TasksLibrary\obj\Debug\TasksLib
 C:\Users\viken\source\repos\Tasks_1\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.csproj.CoreCompileInputs.cache
 C:\Users\viken\source\repos\Tasks_1\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.dll
 C:\Users\viken\source\repos\Tasks_1\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.pdb
+C:\Users\Обама\Documents\Farmer_52Team\Tasks\TasksLibrary\TasksLibrary\bin\Debug\TasksLibrary.dll
+C:\Users\Обама\Documents\Farmer_52Team\Tasks\TasksLibrary\TasksLibrary\bin\Debug\TasksLibrary.pdb
+C:\Users\Обама\Documents\Farmer_52Team\Tasks\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.csproj.AssemblyReference.cache
+C:\Users\Обама\Documents\Farmer_52Team\Tasks\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Обама\Documents\Farmer_52Team\Tasks\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.dll
+C:\Users\Обама\Documents\Farmer_52Team\Tasks\TasksLibrary\TasksLibrary\obj\Debug\TasksLibrary.pdb
